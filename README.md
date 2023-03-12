@@ -60,3 +60,6 @@ For the simple and multiple regression model to hold there are some assumptions 
 [Support Vector Machine](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)
 
 [Decision Trees](https://medium.com/analytics-vidhya/understanding-decision-tree-3591922690a6)
+
+### Improve Performance of Models
+1. [Ensemble Methods and Random Forests](https://blogs.oracle.com/ai-and-datascience/post/random-forests-decision-trees-and-ensemble-methods-explained#:~:text=The%20random%20forest%2C%20first%20described,aggregate%20form%20a%20robust%20prediction.)
