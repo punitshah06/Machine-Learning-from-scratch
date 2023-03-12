@@ -56,3 +56,5 @@ For the simple and multiple regression model to hold there are some assumptions 
 3. The residuals to have constant variance, also known as homoscedasticity.
 
 </details>
+
+[Support Vector Machine](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)
