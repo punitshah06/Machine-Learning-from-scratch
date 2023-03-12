@@ -17,9 +17,8 @@ This repository will serve as a way to collect my notes for machine learning.
 11. [Model Evaluation Metrics](https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/)
 
 ### Assumptions of Every Machine Learning Algorithm
-#### Linear Regression 
 <details>
-  <summary>Click me</summary>
+  <summary>#### Linear Regression </summary>
   
 ### Regression Assumptions
 For the simple and multiple regression model to hold there are some assumptions we need to make:
