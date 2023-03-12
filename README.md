@@ -35,4 +35,4 @@ For the simple and multiple regression model to hold there are some assumptions 
 4. All the errors are independent; to check plot the residuals versus the time periods.
 
 </details>
-[Ridge Lasso Elastic Net](https://medium.com/@creatrohit9/lasso-ridge-elastic-net-regression-a-complete-understanding-2021-b335d9e8ca3)
+[Ridge Lasso Elastic Net] (https://medium.com/@creatrohit9/lasso-ridge-elastic-net-regression-a-complete-understanding-2021-b335d9e8ca3)
