@@ -37,3 +37,22 @@ For the simple and multiple regression model to hold there are some assumptions 
 </details>
 
 [Ridge Lasso Elastic Net](https://medium.com/@creatrohit9/lasso-ridge-elastic-net-regression-a-complete-understanding-2021-b335d9e8ca3)
+
+<details>
+  <summary>Logistic Regression </summary>
+  
+### Logistic Regression Assumptions
+For the simple and multiple regression model to hold there are some assumptions we need to make:
+1. The Response Variable is Binary
+2. The Observations are Independent
+3. There is No Multicollinearity Among Explanatory Variables
+4. There are No Extreme Outliers
+5. The Sample Size is Sufficiently Large
+6. There is a Linear Relationship Between Explanatory Variables and the Logit of the Response Variable
+  
+#### Assumptions of Logistic Regression vs. Linear Regression
+1. A linear relationship between the explanatory variable(s) and the response variable.
+2. The residuals of the model to be normally distributed.
+3. The residuals to have constant variance, also known as homoscedasticity.
+
+</details>
