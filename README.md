@@ -18,7 +18,7 @@ This repository will serve as a way to collect my notes for machine learning.
 
 ### Assumptions of Every Machine Learning Algorithm
 <details>
-  <summary>#### Linear Regression </summary>
+  <summary>Linear Regression </summary>
   
 ### Regression Assumptions
 For the simple and multiple regression model to hold there are some assumptions we need to make:
