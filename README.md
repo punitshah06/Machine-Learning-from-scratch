@@ -58,4 +58,5 @@ For the simple and multiple regression model to hold there are some assumptions 
 </details>
 
 [Support Vector Machine](https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/)
+
 [Decision Trees](https://medium.com/analytics-vidhya/understanding-decision-tree-3591922690a6)
