@@ -14,6 +14,6 @@ This repository will serve as a way to collect my notes for machine learning.
 8. [Supervised learning Models](https://scikit-learn.org/stable/supervised_learning.html)
 9. [Unsupervised Machine Learning Models](https://scikit-learn.org/stable/unsupervised_learning.html)
 10. [Model Selection and Evaluation](https://scikit-learn.org/stable/model_selection.html)
-
+11. [Model Evaluation Metrics](https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/)
 
 ### Assumptions of Every Machine Learning Algorithm
