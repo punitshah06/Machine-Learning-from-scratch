@@ -68,3 +68,4 @@ For the simple and multiple regression model to hold there are some assumptions 
 ### Documentation
 1. [Structure of Machine learning Project](https://drivendata.github.io/cookiecutter-data-science/)
 2. [Generate Requirements](https://boscacci.medium.com/why-and-how-to-make-a-requirements-txt-f329c685181e)
+3. [Create a virtual environment](https://realpython.com/python-virtual-environments-a-primer/)
