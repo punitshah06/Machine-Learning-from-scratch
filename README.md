@@ -64,3 +64,7 @@ For the simple and multiple regression model to hold there are some assumptions 
 ### Improve Performance of Models
 1. [Ensemble Methods and Random Forests](https://blogs.oracle.com/ai-and-datascience/post/random-forests-decision-trees-and-ensemble-methods-explained#:~:text=The%20random%20forest%2C%20first%20described,aggregate%20form%20a%20robust%20prediction.)
 2. [Dimensionality Reduction](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
+
+### Documentation
+1.[Structure of Machine learning Project](https://medium.com/analytics-vidhya/folder-structure-for-machine-learning-projects-a7e451a8caaa)
+2.[Generate Requirements](https://boscacci.medium.com/why-and-how-to-make-a-requirements-txt-f329c685181e)
