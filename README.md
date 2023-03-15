@@ -66,5 +66,5 @@ For the simple and multiple regression model to hold there are some assumptions 
 2. [Dimensionality Reduction](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
 
 ### Documentation
-1. [Structure of Machine learning Project](https://medium.com/analytics-vidhya/folder-structure-for-machine-learning-projects-a7e451a8caaa)
+1. [Structure of Machine learning Project](https://drivendata.github.io/cookiecutter-data-science/)
 2. [Generate Requirements](https://boscacci.medium.com/why-and-how-to-make-a-requirements-txt-f329c685181e)
